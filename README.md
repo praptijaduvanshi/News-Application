@@ -1,3 +1,7 @@
+# News Application wth Alan voice assitant
+
+This is a web-based news application that provides a voice assistant to read and open news from different sources. Tech stack: ReactJS, CSS, Alan API, and News API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
