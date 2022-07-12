@@ -1,4 +1,4 @@
-# News Application wth Alan voice assitant
+# News Application wth Alan Voice Assitant
 
 This is a web-based news application that provides a voice assistant to read and open news from different sources. Tech stack: ReactJS, CSS, Alan API, and News API.
 
